@@ -2,4 +2,4 @@
 
 My solutions for [Advent of Code 2025](https://adventofcode.com/2025) written in Python
 
-Stars collected: 12 / 24
+Stars collected: 14 / 24
